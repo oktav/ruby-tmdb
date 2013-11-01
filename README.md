@@ -141,3 +141,7 @@ The whole contributor list can be seen at [https://github.com/Irio/ruby-tmdb/gra
 
 Copyright (c) 2012 [Irio Irineu Musskopf Junior](http://irio.posterous.com/) ([irio.posterous.com](http://irio.posterous.com/))
 Copyright (c) 2010 [Aaron Gough](http://thingsaaronmade.com/) ([thingsaaronmade.com](http://thingsaaronmade.com/)), released under the MIT license
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Irio/ruby-tmdb/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
