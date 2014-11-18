@@ -2,3 +2,4 @@
 .rvmrc
 .rbenv-version
 .DS_Store
+._*

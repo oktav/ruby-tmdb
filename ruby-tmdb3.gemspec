@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   ]
   s.files = [
     "MIT-LICENSE",
-    "README.rdoc",
+    "README.md",
     "Rakefile",
     "VERSION",
     "lib/ruby-tmdb3.rb",
